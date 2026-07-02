@@ -1,13 +1,11 @@
-<h1 align="center">
-  Hi there, I'm Shreya Mahajan 👋
-</h1>
-
-<h3 align="center">
-Solutions Engineer • AI/ML Engineer • AWS Certified Solutions Architect – Associate
-</h3>
+<h1 align="center">Hi 👋, I'm Shreya Mahajan</h1>
 
 <p align="center">
-Building intelligent AI applications, cloud-native systems, and scalable backend solutions.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&pause=1200&color=7A5CFF&center=true&vCenter=true&width=850&lines=Solutions+Engineer;AI%2FML+Engineer;AWS+Certified+Solutions+Architect;Building+GenAI+%26+Cloud-Native+Systems;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+Building production-ready AI systems, cloud-native applications, and customer-focused technical solutions.
 </p>
 
 <p align="center">
@@ -33,32 +31,14 @@ Building intelligent AI applications, cloud-native systems, and scalable backend
 # 👩‍💻 About Me
 
 ```yaml
-Name: Shreya Mahajan
 
-Location:
-  Santa Clara, California 🇺🇸
-
-Education:
-  M.S. Computer Science & Engineering - Santa Clara University (Sept 2024 - June 2026)
-  B.E. Information Technology & Honors in Artificial Intelligence and Machine Learning (June 2020 - May 2024)
-
-Certification:
-  AWS Certified Solutions Architect – Associate
-
-Interests:
-  - Solutions Engineering
-  - AI Software Engineering
-  - Machine Learning
-  - Cloud Architecture
-  - Backend Systems
-
-Currently Building:
-  - Enterprise GenAI Applications
-  - Real-time Voice AI Systems
-  - LLM-powered Workflows
-  - Cloud-native AI Platforms
-
-OPEN TO WORK ⭐ 
+- 🎓 M.S. Computer Science & Engineering @ Santa Clara University
+     B.E. Information Technology & Honors in Artificial Intelligence and Machine Learning @ University of Mumbai
+- ☁️ AWS Certified Solutions Architect – Associate
+- 🤖 Passionate about GenAI, LLMs, Backend Engineering, and Cloud Architecture
+- 🏆 AWS × INRIX × HighView Hackathon Winner 
+- 📍 Santa Clara, California
+- 💼 Currently looking for AI/ML Software Engineer, Solutions Engineer, and Cloud Engineering opportunities - Open to relocation.
 ```
 
 ---
