@@ -24,6 +24,10 @@ Building production-ready AI systems, cloud-native applications, and customer-fo
 
 <img src="https://komarev.com/ghpvc/?username=shreyamahajan5&style=for-the-badge&color=blueviolet"/>
 
+<a href="https://www.credly.com/users/shreya-mahajan21/badges/credly">
+<img src="https://img.shields.io/badge/Credly-View%20My%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
+
 </p>
 
 ---
